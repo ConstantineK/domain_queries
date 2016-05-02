@@ -1,8 +1,8 @@
 # what 
 
-This was a result of a conversation I had with a friend who was interested in learning about sqlite and the domain name system, it seemed like a simple way to get started. 
+This was a result of a conversation I had with a friend who was interested in learning about sqlite and the domain name system, it seemed like a simple way to get him started on SQL development. 
 
-The current project uses a great free dataset from use https://scans.io/study/axfr-research to simplify the process.
+The current project uses a great free dataset from https://scans.io/study/axfr-research to simplify gathering the domain names.
 
 This script assumes you have sqlite3 and a recent version of bash, tested on debian(jessie) and ubuntu 16.04.
 
