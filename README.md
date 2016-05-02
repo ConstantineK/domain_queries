@@ -35,7 +35,7 @@ output:
 * https://scans.io/study/axfr-research
 * https://en.wikipedia.org/wiki/Zone_file
 
-If you want to write your own queries their database schema is fairly basic and easy to understand:
+Here is the schema for the sqlite database as it currently exists if you want to write your own queries:
 ```
 CREATE TABLE "axfr"(
   dm TEXT,
